@@ -100,9 +100,11 @@ RAG-Predictive-Maintenance/
 ## 📊 Sample Input/Output
 
 ### Input:
-```json
 
+{
   "sensor_data": "engine_124.csv"
+}
+### Output:
 
 🔧 Prediction: High-Pressure Compressor Degradation
 📉 RUL: 42 cycles
